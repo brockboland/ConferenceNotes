@@ -1,5 +1,6 @@
 # [CocoaConf Chicago 2016](http://cocoaconf.com/chicago-2016/home)
 
+----
 ## [Practical Continuous Integration with Xcode Server](http://cocoaconf.com/chicago-2016/sessions/Continuous-Integration-Hardy)
 Brian Hardy
 @lyricsboy
@@ -11,6 +12,7 @@ https://github.com/czechboy0/Buildasaur
 https://github.com/czechboy0/xcskarel
 xcscontrol
 
+----
 ## [Collections in Swift](http://cocoaconf.com/chicago-2016/sessions/Collections-in-Swift)
 Nate Cook
 https://github.com/natecook1000/Collections-in-Swift
@@ -89,6 +91,7 @@ You could create a new array
 	Array(reversedElements)
 …but this creates a copy of the reversedElements ReverseRandomAccessCollection instead of using the existing data in memory
 
+----
 ## [Debugging and Testing](http://cocoaconf.com/chicago-2016/sessions/Tyree-Debugging-and-Testing)
 Walter Tyree
 
@@ -115,6 +118,7 @@ https://github.com/facebook/chisel
 - Good start: custom summary (shows in the left pane of the debugger for any instances of the class)
 - ~/.lldbinit
 
+----
 ## [MVC-N](http://cocoaconf.com/chicago-2016/sessions/exploring-mvc-n)
 Marcus Zarra
 
@@ -134,6 +138,7 @@ Cancel GET requests when app goes to background
 
 Operations are better than blocks for network operation
 
+----
 ## [Being A Subject Matter Expert](http://cocoaconf.com/chicago-2016/sessions/Being-A-Subject-Matter-Expert)
 Marcus Zarra
 
@@ -166,6 +171,7 @@ How do you start?
 - Post on StackOverflow
 - Networking
 
+----
 ## [Speeding up your iOS Development with Fastlane](http://cocoaconf.com/chicago-2016/sessions/Fastlane-Van-Order)
 Jacob Van Order
 
