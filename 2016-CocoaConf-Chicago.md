@@ -1,6 +1,5 @@
 # [CocoaConf Chicago 2016](http://cocoaconf.com/chicago-2016/home)
 
-----
 ## [Practical Continuous Integration with Xcode Server](http://cocoaconf.com/chicago-2016/sessions/Continuous-Integration-Hardy)
 Brian Hardy
 @lyricsboy
