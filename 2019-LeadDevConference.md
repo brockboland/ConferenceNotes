@@ -1,5 +1,5 @@
 # [The Lead Developer Conference 2019](https://austin2019.theleaddeveloper.com)
-2019.11.08
+
 Videos: http://www.youtube.com/playlist?list=PLBzScQzZ83I-CMMW3_ULONRHVToeCBJqf
 
 ## Scaling yourself as a first time engineer
@@ -130,5 +130,5 @@ Was the Concord successful?
 
 
 # Conclusion
-Most interesting thing: 4 out of 6 people will experience some disability during their lives
-Thing to do differently: Start shared notes for 1:1
+* Most interesting thing: 4 out of 6 people will experience some disability during their lives
+* Thing to do differently: Start shared notes for 1:1
