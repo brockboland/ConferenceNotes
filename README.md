@@ -11,3 +11,6 @@
 
 ## 2018
 - [360iDev](2018-360iDev.md)
+
+## 2019
+- [The Lead Developer](2019-LeadDevConference.md)
